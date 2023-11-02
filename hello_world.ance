@@ -1,0 +1,4 @@
+project.name <: c"hello_world";
+project.kind <: Executable;
+project.opt_level <: 3;
+project.warning_as_error_enabled <: true;
